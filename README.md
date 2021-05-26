@@ -1,1 +1,2 @@
-# buzzer-app
+# tabNavigation
+Tab navigation in the app
